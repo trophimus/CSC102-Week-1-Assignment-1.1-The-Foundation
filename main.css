@@ -1,0 +1,42 @@
+h3
+{
+    text-align: center;
+}
+Body
+{
+    background-color: yellow;
+    color: red;
+    
+}
+
+nav
+{
+    background-color:yellow;
+    height:600px;
+    width: 200px;
+    float:left;
+    padding:5px;
+    line-height:30px;
+
+}
+
+p
+{
+
+ text-align: center;
+ color: blue;
+ margin-right: 200px;
+  
+  
+}
+/* Image MeMe is set to 200 pixels to the right*/
+img{
+    margin-right: 200px;
+}
+footer
+{
+    text-align: center;
+    margin-right: 200px;
+}
+
+
